@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog      #你博客的标题
-SEOTitle: Robin的博客 | BY Blog   #显示在浏览器上搜索的时候显示的标题
+title: Robin Blog      #你博客的标题
+SEOTitle: Robin的博客 | Robin Blog   #显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-desk.jpg    #显示在首页的背景图片
 email: jrb1451144759@gmail.com     
 description: "Do what you want to do."
-keyword: "BY, BY Blog, Robin的博客, jiangrenbin, 蒋仁斌, iOS, Apple, iPhone"
+keyword: "Robin, Robin Blog, Robin的博客, jiangrenbin, 蒋仁斌, iOS, Apple, iPhone"
 url: "http://Robin329.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Robin329/Robin329.github.io.git" # you code repository
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "QCOM",
+        href: "https://createpoint.qti.qualcomm.com"
     },{
         title: "CSDN·",
-        href: "https://blog.csdn.net/lanxuezaipiao/article/details/44307757"
+        href: "https://blog.csdn.net/qq_33003441"
     },{
         title: "Apple",
         href: "https://apple.com"
