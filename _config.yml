@@ -4,7 +4,7 @@ SEOTitle: Robin的博客 | Robin Blog   #显示在浏览器上搜索的时候显
 header-img: img/post-bg-desk.jpg    #显示在首页的背景图片
 email: jrb1451144759@gmail.com     
 description: "Do what you want to do."
-keyword: "Robin, Robin Blog, Robin的博客, jiangrenbin, 蒋仁斌, iOS, Apple, iPhone"
+keyword: "Robin, Robin Blog, Robin的博客, jiangrenbin, 蒋仁斌, Linux, Android, LCD"
 url: "http://Robin329.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Robin329/Robin329.github.io.git" # you code repository
